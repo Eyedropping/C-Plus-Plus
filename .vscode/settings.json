@@ -20,6 +20,7 @@
         "atomic": "cpp",
         "bitset": "cpp",
         "cctype": "cpp",
+        "conio": "cpp",
         "chrono": "cpp",
         "cmath": "cpp",
         "complex": "cpp",
