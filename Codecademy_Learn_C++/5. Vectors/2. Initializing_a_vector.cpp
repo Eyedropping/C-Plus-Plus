@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-int main ()
+int main()
 {
 
     std::vector<double> subway_adult = {800, 1200, 1500};
