@@ -35,7 +35,7 @@ CLARIFY
 * All tasks are completed by the repo owner.
 * Consequently all logic and structuring, as well as other technical stuff came solely from the owner's head.
 * Some tasks, you will see may seem to have ligher / faster / more logical / less sloppy solution? Please feel free to contact or comment!
-* The training material for which this repository was created (hereinafter referred to as the "training material") is the exclusive property of the Codecademy LLC. The author does not pretend that this repository can serve as a partial or complete replacement of training material, just as he is not going to extract any financial benefit from the content posted in the repository. The author draws the attention of any user utilizing this repository to the fact that he (she) can get complete and exhaustive knowledge on this issue exclusively on the official website of the Codecademy LLC (links will be provided in **"Further Reading & Reference"** section)
+* The training material for which this repository was created (hereinafter referred to as the "training material") is the exclusive property of the Codecademy LLC. The author does not pretend that this repository can serve as a partial or complete replacement of training material, just as he is not going to extract any financial benefit from the content posted in the repository. The author draws the attention of any user utilizing this repository to the fact that he (she) can get complete and exhaustive knowledge on this issue exclusively on the official website of the Codecademy LLC (links will be provided in **"Further Reading & Reference"** section).
 
 
 ### Further Reading & Reference
