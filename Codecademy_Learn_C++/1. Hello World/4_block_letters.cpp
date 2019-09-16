@@ -11,5 +11,6 @@ int main()
     std::cout << "D   D  A   A\n";
     std::cout << "D   D  A   A\n";
     std::cout << "DDDD   A   A\n";
+
     return 0;
 }
